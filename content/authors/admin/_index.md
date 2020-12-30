@@ -1,7 +1,7 @@
 ---
 title: Jae Hyun Lee
 role: Master's Student
-avatar_filename: jhlee_1x1.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include .
 interests:
   - Web Technology

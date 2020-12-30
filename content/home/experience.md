@@ -39,7 +39,6 @@ experience:
     company_url: 'https://www.samsung.com/'
     location: Suwon
     date_start: '2014-01-06'
-    date_end: '2014-02-31'
-
+    date_end: '2014-02-28'
         
 ---

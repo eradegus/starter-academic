@@ -16,23 +16,23 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: -
+- description: test
   icon: r-project
   icon_pack: fab
   name: Kubernetes
-- description: -
+- description: test
   icon: chart-line
   icon_pack: fas
   name: Terraform
-- description: -
+- description: test
   icon: camera-retro
   icon_pack: fas
   name: NodeJS
-- description: -
+- description: test
   icon: camera-retro
   icon_pack: fas
   name: NodeJS
-- description: -
+- description: test
   icon: camera-retro
   icon_pack: fas
   name: NodeJS
