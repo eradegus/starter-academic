@@ -28,4 +28,6 @@ email: "jhlee2021@mmlab.snu.ac.kr "
 superuser: true
 highlight_name: false
 ---
-\-
+Welcome!
+
+I’m a M.S. student in the Department of Computer Science and Engineering at Seoul National University (Advisor: Prof. Taekyoung ‘‘Ted’’ Kwon).
