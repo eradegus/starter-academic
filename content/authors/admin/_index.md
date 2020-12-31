@@ -21,13 +21,14 @@ organizations:
     name: Seoul National University
 education:
   courses:
+    - course: M.S. in Computer Science and Engineering
+      institution: Seoul Natainal University
+      year: 2021 - Present
     - course: B.S. in Computer Software
       institution: KwangWoon University
-      year: 2015
+      year: 2008 - 2015
 email: "jhlee2021@mmlab.snu.ac.kr "
 superuser: true
 highlight_name: false
 ---
-Welcome!
-
 I’m a M.S. student in the Department of Computer Science and Engineering at Seoul National University (Advisor: Prof. Taekyoung ‘‘Ted’’ Kwon).
