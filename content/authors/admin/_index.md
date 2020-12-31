@@ -1,5 +1,5 @@
 ---
-title: Jae Hyun Lee
+title: JaeHyun Lee
 role: Master's Student
 avatar_filename: kakaotalk_20201231_092938772_01.jpg
 bio: My research interests include .
