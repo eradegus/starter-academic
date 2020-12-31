@@ -1,7 +1,7 @@
 ---
 title: Jae Hyun Lee
 role: Master's Student
-avatar_filename: avatar.jpg
+avatar_filename: kakaotalk_20201231_092938772_01.jpg
 bio: My research interests include .
 interests:
   - Web Technology
